@@ -264,12 +264,8 @@ section.divider {
 /* Banner */
 .banner {
   height: 300px;
-  background: url("../img/banner/bg.jpg") center no-repeat;
+  background-image: url("../img/banner/bg.jpg") center no-repeat;
   background-size: cover;
-  background-attachment: scroll;
-}
-.banner .container-fluid {
-  height: 100%;
 }
 
 /* Services */
