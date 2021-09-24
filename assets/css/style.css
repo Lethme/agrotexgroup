@@ -264,7 +264,9 @@ section.divider {
 /* Banner */
 .banner {
   height: 300px;
-  background-image: url("../img/banner/bg.jpg") center no-repeat;
+  background-image: url("../img/banner/bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
