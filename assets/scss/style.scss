@@ -225,6 +225,8 @@ section.divider {
     background: url('../img/banner/bg.jpg') center no-repeat;
     background-size: cover;
     background-attachment: scroll;
+
+    .container-fluid { height: 100%; }
 }
 
 /* Services */

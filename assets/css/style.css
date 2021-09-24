@@ -268,6 +268,9 @@ section.divider {
   background-size: cover;
   background-attachment: scroll;
 }
+.banner .container-fluid {
+  height: 100%;
+}
 
 /* Services */
 .services .cards .card-line .card {
